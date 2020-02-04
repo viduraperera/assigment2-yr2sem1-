@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CLion/SLIIT/labs/random/Lottery.cpp
+Lottery.h
+E:/CLion/SLIIT/labs/random/Lottery.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+
+E:/CLion/SLIIT/labs/random/Lottery.h
+
